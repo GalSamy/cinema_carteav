@@ -1,0 +1,12 @@
+.card{
+    width: 18rem;
+}
+.seat-taken{
+    background-color: red;
+}
+.seat-selected{
+    background-color: yellow;
+}
+.seat{
+    background-color: green;
+}
